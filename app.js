@@ -12,5 +12,5 @@ var urlMap = [
 
 var service = require("./lib/service").http(urlMap);
 
-service(PORT);/btybbgfbgf
+service(PORT);
 
